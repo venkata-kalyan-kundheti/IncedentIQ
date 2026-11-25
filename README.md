@@ -9,29 +9,37 @@
 [![Groq](https://img.shields.io/badge/AI_Engine-Groq_Llama_3.3-F05A28?style=for-the-badge)](https://groq.com/)
 [![Gemini](https://img.shields.io/badge/AI_Engine-Google_Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white)](https://ai.google.dev/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg?style=for-the-badge)](LICENSE)
+[![Watch Demo Video](https://img.shields.io/badge/▶_Watch_Demo_Video-Google_Drive-4285F4?style=for-the-badge&logo=googledrive&logoColor=white)](https://drive.google.com/drive/folders/1XU0303bslIzol6O14QkZffUG5-9ESq-U?usp=sharing)
+
+---
+
+> 🎬 **Project Demo & Video Walkthrough:**  
+> **[▶ Click here to view the IncidentIQ Project Demo Video](https://drive.google.com/drive/folders/1XU0303bslIzol6O14QkZffUG5-9ESq-U?usp=sharing)**
 
 ---
 
 ## 📖 Table of Contents
 
-1. [Executive Overview](#-executive-overview)
-2. [The Core Problem & The IncidentIQ Solution](#-the-core-problem--the-incidentiq-solution)
-3. [System Architecture](#-system-architecture)
-4. [Autonomous 6-Agent Investigation Pipeline](#-autonomous-6-agent-investigation-pipeline)
-5. [Key Platform Features & Pillars](#-key-platform-features--pillars)
-6. [UI Design & Visual Showcase](#-ui-design--visual-showcase)
-7. [Technology Stack](#-technology-stack)
-8. [Repository Structure](#-repository-structure)
-9. [REST API Documentation](#-rest-api-documentation)
-10. [Getting Started & Installation](#-getting-started--installation)
+1. [🎥 Project Demo Video Walkthrough](#-project-demo--video-walkthrough)
+2. [Executive Overview](#-executive-overview)
+3. [The Core Problem & The IncidentIQ Solution](#-the-core-problem--the-incidentiq-solution)
+4. [System Architecture](#-system-architecture)
+5. [Autonomous 6-Agent Investigation Pipeline](#-autonomous-6-agent-investigation-pipeline)
+6. [Key Platform Features & Pillars](#-key-platform-features--pillars)
+7. [UI Design & Visual Showcase](#-ui-design--visual-showcase)
+8. [Technology Stack](#-technology-stack)
+9. [Repository Structure](#-repository-structure)
+10. [REST API Documentation](#-rest-api-documentation)
+11. [Getting Started & Installation](#-getting-started--installation)
     - [Prerequisites](#prerequisites)
+    - [Clone the Repository](#clone-the-repository)
     - [Environment Configuration](#environment-configuration)
     - [Database Initialization](#database-initialization)
     - [Running the Backend Service](#running-the-backend-service)
     - [Launching the JavaFX Desktop UI](#launching-the-javafx-desktop-ui)
     - [Running the Automated Test Suite](#running-the-automated-test-suite)
-11. [Configuration Reference](#-configuration-reference)
-12. [Contributing & License](#-contributing--license)
+12. [Configuration Reference](#-configuration-reference)
+13. [Contributing & License](#-contributing--license)
 
 ---
 
