@@ -302,6 +302,7 @@ AgentOps/
 ├── .env.example                       # Template for environment variables and secrets
 ├── .gitignore                         # Comprehensive Git ignore rules (build, secrets, IDE)
 ├── DESIGN.md                          # Design system specification (colors, typography, geometry)
+├── IncidentIQ_Project_Report.pdf      # Detailed project report & system documentation
 ├── PRODUCT.md                         # Product specification, user personas, and capabilities
 ├── PROJECT_SPEC.md                    # Core architecture specification and domain definitions
 ├── README.md                          # Primary platform documentation
