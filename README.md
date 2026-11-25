@@ -486,6 +486,15 @@ Ensure you have the following installed on your host system:
 
 ---
 
+### Clone the Repository
+
+```bash
+git clone https://github.com/venkata-kalyan-kundheti/IncedentIQ.git
+cd IncedentIQ
+```
+
+---
+
 ### Environment Configuration
 
 1. Copy the provided `.env.example` file to `.env` in the project root:
